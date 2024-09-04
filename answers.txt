@@ -1,0 +1,2 @@
+Data science can be applied to healthcare. For example, it helps predict patient outcomes by analyzing 
+medical records and genetic data, leading to personalized treatment plans and improved patient care.
