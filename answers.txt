@@ -6,3 +6,11 @@ work on the same project and provides a history of modifications.
 Data science can be applied to healthcare. For example, it helps predict patient outcomes by analyzing 
 medical records and genetic data, leading to personalized treatment plans and improved patient care.
 
+I hope to improve my data analysis skills, gain a deeper understanding of 
+machine learning algorithms, and enhance my proficiency in programming languages like 
+Python and R for data science applications.
+
+
+
+
+
