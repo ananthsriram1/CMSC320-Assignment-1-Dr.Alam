@@ -1,0 +1,3 @@
+We might consider using git because it is a very standard version control system. A lot of 
+companies use git to manage version control and it has many uses, allowing multiple developers to 
+work on the same project and provides a history of modifications.
